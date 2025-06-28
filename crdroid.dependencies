@@ -10,13 +10,13 @@
     "branch": "15"
   },
   {
-    "repository": "muralivijay/kernel_xiaomi_spes",
+    "repository": "Jingexz01/kernel_xiaomi_spes",
     "target_path": "kernel/xiaomi/spes",
     "branch": "15"
   },
   {
     "repository": "Jingexz01/vendor_xiaomi_spes",
     "target_path": "vendor/xiaomi/spes",
-    "branch": "main"
+    "branch": "15"
   }
 ]
